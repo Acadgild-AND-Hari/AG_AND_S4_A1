@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Month Sort</string>
+    <string name="str_asc">Ascending</string>
+    <string name="str_dsc">Descending</string>
 </resources>
